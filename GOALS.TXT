@@ -1,0 +1,4 @@
+fix shit
+Create windows lib for crateng windows and handling exit messages and returns handle
+then create gui rendering layer
+then crate 3d rendering layer 
